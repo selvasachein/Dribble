@@ -17,13 +17,13 @@ Create Django Admin project.
 Create a New App under the Django Admin project.
 
 ### Step 4:
-Create python programs for views and urls to perform server side processing.
+Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
 
 ### Step 5:
-Create a HTML file to implement form based input and output.
+Create a HTML file and include the needed Bootstrap components.
 
 ### Step 6:
-Publish the website in the given URL.
+Publish the website in the LocalHost.
 
 ## PROGRAM :
 
