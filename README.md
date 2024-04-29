@@ -1,4 +1,4 @@
-# Ex.10 Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 ## Date:
 
 ## AIM:
@@ -32,4 +32,4 @@ Publish the website in the LocalHost.
 
 
 ## RESULT:
-The program for responsive web design using Bootstrap is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully.
