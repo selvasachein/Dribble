@@ -2,7 +2,7 @@
 ## Date:
 
 ## AIM:
-To design a responsive website for a Pharmaceutical Company using Bootstrap.
+To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
 
 ## DESIGN STEPS:
