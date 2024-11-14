@@ -1,0 +1,181 @@
+/* Reset and basic styles */
+body, h1, h2, p, a, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Top Bar Styling */
+.top-bar {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar {
+    margin-right: 15px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+}
+
+.nav-item {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.blue-text {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.blue-text:hover {
+    text-decoration: underline;
+}
+
+/* Header Section */
+header {
+    background-image: url('https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg'); /* Add your header image */
+    background-size: cover;
+    padding: 80px 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.header-content h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.header-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.search-input {
+    padding: 10px;
+    width: 60%;
+    max-width: 500px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+/* Trending Searches Section */
+.trending {
+    padding: 20px;
+    text-align: center;
+}
+
+.trending h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.trending-tags {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.trending-tags span {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Gallery Section */
+.gallery {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card h3 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Gallery Section */
+.gallery {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+    position: relative;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.card:hover img {
+    transform: scale(1.2); /* Scale image to 120% on hover */
+}
+
+.card h3 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Footer Section */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
