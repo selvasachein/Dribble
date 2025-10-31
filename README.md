@@ -17,10 +17,22 @@ Create Django Admin project.
 Create a New App under the Django Admin project.
 
 ### Step 4:
-Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
+Design a navigation bar with links: Inspiration, Find Work, Learn Design, Go Pro, Sign In, Sign Up.
 
 ### Step 5:
-Create a HTML file and include the needed Bootstrap components.
+Add a catchy headline with a search bar.
+
+### Step 6:
+Use <div> containers for each dribbble shot thumbnail.
+
+### Step 7:
+Include designer name and likes count below each image.
+
+### Step 8:
+Include text like “Find your next design inspiration” with a button (“Join Dribbble” or “Explore”).
+
+### Step 9:
+Create a footer with your name and register number.
 
 ### Step 6:
 Publish the website in the LocalHost.
@@ -32,4 +44,4 @@ Publish the website in the LocalHost.
 
 
 ## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+The project for responsive web design in creating a clone of dribble.com is completed successfully.
