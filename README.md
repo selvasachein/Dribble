@@ -34,7 +34,7 @@ Include text like “Find your next design inspiration” with a button (“Join
 ### Step 9:
 Create a footer with your name and register number.
 
-### Step 6:
+### Step 10:
 Publish the website in the LocalHost.
 
 ## PROGRAM :
