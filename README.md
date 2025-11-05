@@ -23,7 +23,7 @@ Design a navigation bar with links: Inspiration, Find Work, Learn Design, Go Pro
 Add a catchy headline with a search bar.
 
 ### Step 6:
-Use <div> containers for each dribbble shot thumbnail.
+Use ```<div>``` containers for each dribbble shot thumbnail.
 
 ### Step 7:
 Include designer name and likes count below each image.
